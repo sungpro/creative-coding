@@ -1,0 +1,1 @@
+![blazing-sun.gif](demo-videos/blazing-sun.gif)
